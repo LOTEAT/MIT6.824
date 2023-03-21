@@ -1,0 +1,10 @@
+pkg/
+api.key
+.api.key.trimmed
+*-handin.tar.gz
+mr-?-?
+mr-tmp
+*.so
+mrcoordinator
+mrsequential
+mrworker

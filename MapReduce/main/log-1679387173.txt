@@ -1,0 +1,8 @@
+2023-3-21 16:25:39:  reg
+2023-3-21 16:25:39:  run
+2023-3-21 16:25:39:  worker get task:&{FileName:pg-being_ernest.txt Phase:0 Seq:0 NMap:8 NReduce:10 Alive:true}
+2023-3-21 16:25:39:  1 start read file pg-being_ernest.txt
+2023-3-21 16:25:39:  worker get task:&{FileName:pg-dorian_gray.txt Phase:0 Seq:1 NMap:8 NReduce:10 Alive:true}
+2023-3-21 16:25:39:  1 start read file pg-dorian_gray.txt
+2023-3-21 16:25:40:  worker get task:&{FileName:pg-frankenstein.txt Phase:0 Seq:2 NMap:8 NReduce:10 Alive:true}
+2023-3-21 16:25:40:  1 start read file pg-frankenstein.txt
